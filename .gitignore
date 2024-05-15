@@ -1,0 +1,3 @@
+notebooks/images
+.ipynb_checkpoints/
+.env
